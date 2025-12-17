@@ -5,7 +5,7 @@
 
 ## 总体原则 / Core Principles
 - 非必要不修改：除非有明确收益（修复问题、提升效率、降低风险、增强可维护性） / Do not change unless necessary: clear benefits only (fix issues, improve efficiency, reduce risk, enhance maintainability)
-- 明确收益驱动：改动前说明为何改、度量何种收益 / Benefit-driven: explain why and measurable gains
+- 明确收益驱动：改动前说明为何改、如何改、度量何种收益 / Benefit-driven: explain why 、how and measurable gains
 - 可验证与可回滚：小步、可验证、可回滚 / Verifiable and rollbackable: small, testable changes
 - 一致性优先：遵循既有约定与风格 / Consistency first: follow existing conventions and style
 - 安全与合规：数据安全、权限、审计与合规优先 / Security & compliance: data safety, access control, audit, compliance
